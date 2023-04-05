@@ -7,7 +7,7 @@ Este projeto consiste na criação de um website completo desenvolvido em HTML e
 </p>
 
 <p align="center">
-        <img src="img/menu.jpg"alt="Projeto Menu">
+        <img src="https://user-images.githubusercontent.com/107559912/229948555-3b0bd23c-77f4-4a39-9d9e-848c3ee1906a.jpeg"alt="WebSite Completo">
 </p>
 
 ## 🤝 Faça sua Contribuição 
