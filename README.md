@@ -7,7 +7,7 @@ Este projeto consiste na criação de um website completo desenvolvido em HTML e
 </p>
 
 <p align="center">
-        <img src="images/animals/2023-04-06-19-07-26.gif"alt="WebSite Completo">
+        <img src="images/animals/2023-04-06-19-07-26.gif"alt="WebSite Completo ">
 </p>
 
 ## 🤝 Faça sua Contribuição 
